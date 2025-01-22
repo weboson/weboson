@@ -30,6 +30,8 @@ Technologies:
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23e7eae8?style=for-the-badge&logo=PostgreSQL&logoColor=%23336791)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2300180C?style=for-the-badge&logo=MongoDB&logoColor=%23128D4C)
 ![Static Badge](https://img.shields.io/badge/Next.js-%233F8FF4?style=for-the-badge&logo=Next.js)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 HTML; CSS; Git;  Sass; Express.js; CMS Wordpress; Joomla CMS; OpenCart; MODX; MODX CMS; SEO оптимизация; Canvas; Three.js; Vite.js; PHP; Ubuntu (terminal); REST API; WebGL; 
 
