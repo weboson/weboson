@@ -16,7 +16,7 @@
 <h2 align="center">Я Frontend и fullstack разработчик</h2>
 <div style="text-align: left;">
   <h3 align="center">Портфолио: <a href="https://weboson.github.io/react-three-portfolio">https://weboson.github.io/react-three-portfolio</a></h3>
-  <h3 align="center">Свежий проект: <a href="http://212.22.70.27/auth">http://212.22.70.27/auth</a></h3>
+  <h3 align="center">Свежий fullstack проект: <a href="http://141.8.192.113">allo.ru</a></h3>
 </div>
 
 Technologies:
